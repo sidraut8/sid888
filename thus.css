@@ -1,0 +1,33 @@
+.ab{
+  margin-left: 515px;
+  
+  background-color: rgb(216, 212, 203);
+  height: 500px;
+  width: 380px;
+  border-radius: 10px;
+}
+.bc{
+  background-color: rgb(34, 226, 34);
+  margin-top: 70px;
+  height: 300px;
+  margin-left: 70px;
+  width: 250px;
+  border: 2px 2px black;
+  align-items: center;
+  border-radius: 10px;
+}
+img{
+  height: 140px;
+  width: 250px;
+  border-radius: 5px;
+}
+li{
+  display: inline-block;
+  padding: 5px;
+  background-color: yellow;
+  border-radius: 5px;
+  text-align: center;
+  }
+  p{
+    text-align: center;
+  }
